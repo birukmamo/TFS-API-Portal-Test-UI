@@ -8,15 +8,15 @@
 			body {
 
 				background-image: url('/Users/Sister/Downloads/TFS API Portal Image.png');
-background - repeat: no - repeat;
-background - size: cover;
-		}
-	</ style >
+				background - repeat: no - repeat;
+				background - size: cover;
+			}
+		</ style >
 	< script src = "https://d1kzd4gjnuib76.cloudfront.net/lex-web-ui-loader.js" ></ script >
  
 	 < script >
 		 var loaderOptions = {
-configUrl: 'https://d1kzd4gjnuib76.cloudfront.net/lex-web-ui-loader-config.json',
+			configUrl: 'https://d1kzd4gjnuib76.cloudfront.net/lex-web-ui-loader-config.json',
 			baseUrl: 'https://dwz8vdco01vbe.cloudfront.net'
  		};
 
